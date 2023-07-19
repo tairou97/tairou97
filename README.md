@@ -31,7 +31,6 @@ src=https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebc
 
 
 
-Nachricht an Patrick Zablocki
 
 
 
