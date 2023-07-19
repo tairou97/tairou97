@@ -24,26 +24,6 @@ src=https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebc
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667"/><br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Umschalttaste + Eingabetaste zum Hinzufügen einer neuen Zeile
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tairou97&theme=calm)
 
 
