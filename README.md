@@ -1,5 +1,5 @@
 # Hi there 👋
-## I´m Tairou from Berlin,
+## I´m Tairou from Berlin.
 
 
 **`Web-Devoloper`**
