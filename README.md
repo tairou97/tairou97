@@ -1,15 +1,11 @@
-# Hi there 👋 
-# I´m Tairou from Berlin.
-
-
-**`Web-Devoloper`**
-## Welcome to my Github.
-### I work with
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Tairou</h1>
+<h3 align="center">An aspiring Full Stack Developer currently pursuing studies at DCI in Berlin.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tairou97&label=Profile%20views&color=0e75b6&style=flat" alt="tairou97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tairou97" alt="tairou97" /></a> </p>
+
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,6 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tairou97&show_icons=true&locale=en" alt="tairou97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tairou97&" alt="tairou97" /></p>
+
 
 <!--
 **tairou97/tairou97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
