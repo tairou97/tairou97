@@ -7,7 +7,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;+I'm+Tairou+Mouhamed;+An+aspiring+Full+Stack+Developer;+currently+pursuing+studies;+at+DCI+in+Berlin.+👨‍💻+💻+⚡️;+&font=Fira%20Code&center=true&width=500&height=200&duration=3000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;+I'm+Tairou+Mouhamed;+An+aspiring+Full+Stack+Developer;+currently+pursuing+studies;+at+DCI+in+Berlin.+👨‍💻+💻+⚡️;+&font=Fira%50Code&center=true&width=500&height=50&duration=3000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
