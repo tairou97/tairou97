@@ -1,10 +1,19 @@
+
+          <br clear="both">
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tairou97.tairou97&left_color=goldenrod&right_color=grey"  />
+</div>
+
+###
+
 <h2 align="center">Hi 👋, I'm Tairou<br>An aspiring Full Stack Developer currently pursuing studies at DCI in Berlin.👨‍💻💻⚡️</h2>
 
 ###
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+<div align="center">
+  <img height="140" src="https://media.licdn.com/dms/image/D4D12AQGxi8Da0Cwwgw/article-cover_image-shrink_600_2000/0/1657742411694?e=2147483647&v=beta&t=2KnpK1qdT8Q765TiWV7ID8MUG8INJ7D7LEWFPhH_JhQ"  />
+</div>
 
 ###
 
@@ -15,9 +24,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tairou97&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=true&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=tairou97&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tairou97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tairou97&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=true&theme=tokyonight&locale=en&hide_border=true" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=tairou97&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tairou97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="140" alt="languages graph"  />
 </div>
 
 ###
@@ -75,22 +84,16 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="visualstudio logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tairou97/count.svg?"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="slack logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="codepen logo"  />
+  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="visualstudio logo"  />
 </div>
 
 ###
@@ -98,7 +101,6 @@
 <img src="https://raw.githubusercontent.com/tairou97/tairou97/output/snake.svg" alt="Snake animation" />
 
 ###
-          
 <!--
 **tairou97/tairou97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
