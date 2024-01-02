@@ -11,8 +11,8 @@
 </p>
 
 
-<h2 align="center">Hi 👋, I'm Tairou<br>An aspiring Full Stack Developer currently pursuing studies at DCI in Berlin.👨‍💻💻⚡️</h2>
-
+<!--<h2 align="center">Hi 👋, I'm Tairou<br>An aspiring Full Stack Developer currently pursuing studies at DCI in Berlin.👨‍💻💻⚡️</h2>
+-->
 ###
 
 <div align="center">
