@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/D4D12AQGxi8Da0Cwwgw/article-cover_image-shrink_600_2000/0/1657742411694?e=2147483647&v=beta&t=2KnpK1qdT8Q765TiWV7ID8MUG8INJ7D7LEWFPhH_JhQ"  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 ###
 
