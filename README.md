@@ -1,11 +1,15 @@
-
-          <br clear="both">
+<br clear="both">
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tairou97.tairou97&left_color=goldenrod&right_color=grey"  />
 </div>
 
 ###
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 
 <h2 align="center">Hi 👋, I'm Tairou<br>An aspiring Full Stack Developer currently pursuing studies at DCI in Berlin.👨‍💻💻⚡️</h2>
 
@@ -25,7 +29,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tairou97&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=true&theme=tokyonight&locale=en&hide_border=true" height="140" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=tairou97&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=tairou97&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tairou97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="140" alt="languages graph"  />
 </div>
 
