@@ -102,7 +102,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tairou97/tairou97/output/snake.svg" alt="Snake animation" />
+
 
 ###
 <!--
