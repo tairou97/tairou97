@@ -100,11 +100,7 @@
   <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="visualstudio logo"  />
 </div>
 
-###
 
-
-
-###
 <!--
 **tairou97/tairou97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
